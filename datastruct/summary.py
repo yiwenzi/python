@@ -1,7 +1,7 @@
 # coding=utf-8
 __author__ = 'hunter'
 
-# xrange 可用于控制循环多少次
+# xrange 可用于控制循环多少次，也就是生成指定范围内的数
 # randint 可用于生成一个区间范围内的随机数
 # sample 可在一个序列（字符串、列表）中随机选取n个，返回一个列表
 # 列表生成式 [x*2 for _ in xrange(10)]
